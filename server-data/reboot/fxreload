@@ -1,0 +1,9 @@
+/var/log/gta5/fxreloadlog
+{
+        rotate 4
+        weekly
+        missingok
+        notifyempty
+        delaycompress
+        compress
+}
